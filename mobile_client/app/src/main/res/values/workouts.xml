@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="workouts">
+        <item>route1.gpx</item>
+        <item>route2.gpx</item>
+        <item>route3.gpx</item>
+        <item>route4.gpx</item>
+        <item>route5.gpx</item>
+        <item>route6.gpx</item>
+        <item>segment1.gpx</item>
+        <item>segment2.gpx</item>
+    </string-array>
+
+</resources>
